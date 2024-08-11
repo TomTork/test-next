@@ -1,8 +1,8 @@
 'use client'
 import * as mui from "@mui/material"
 import Image from "next/image";
-import React, {useEffect} from "react";
-import {redirect, RedirectType, useRouter} from "next/navigation";
+import React from "react";
+import {useRouter} from "next/navigation";
 
 export default function NotFound() {
     const router = useRouter()

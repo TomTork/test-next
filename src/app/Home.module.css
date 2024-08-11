@@ -1,0 +1,24 @@
+.appBar{
+    background: transparent;
+}
+.h1{
+    font-size: 50px;
+    background-color: black;
+    border-radius: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.buttonEnter{
+    border-color: black;
+    display: flex;
+    justify-content: flex-end;
+}
+.colorTextButton{
+    color: black;
+    /*box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);*/
+    /*dark:drop-shadow-[0_0_0.3rem_#ffffff70]*/
+    /*drop-shadow(#ffffff70, 0, 0, 0.3);*/
+}
+.space{
+    width: 68%
+}
