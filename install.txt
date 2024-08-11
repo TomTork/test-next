@@ -1,0 +1,5 @@
+npm install @next/mdx @mdx-js/loader @mdx-js/react @types/mdx
+npm install @mui/material-nextjs @emotion/cache
+npm install @emotion/react
+npm i @emotion/styled
+npm install bootstrap
